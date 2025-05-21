@@ -6,6 +6,8 @@ Additionally, this example comes with some helpers that make it easier to write 
 
 Note: this example app uses Cordova as it's based on the older Ionic Conference App, but we strongly recommend teams use [Capacitor](https://capacitorjs.com/) and the same information below will apply.
 
+This is test
+
 ## About the Testing Stack
 
 We've chosen [WebdriverIO](https://webdriver.io) as the primary test runner and API for test authoring. WebdriverIO is the leading Node.js-based test automation framework and supports a wide variety of tools that support the WebDriver protocol.
